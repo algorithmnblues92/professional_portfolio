@@ -6,8 +6,10 @@ A basic template for your online professional portfolio/resume, with adaptive si
 
 ### Screenshots
 
-![Desktop Version](assets\images\professional_portfolio_desktop.png)
+![Desktop Version](assets/images/professional_portfolio_desktop.png)
 
-![Mobile Version](assets\images\professional_portfolio_mobile.png)
+![Mobile Version](assets/images/professional_portfolio_mobile.png)
 
 ### Deployed Website Link
+
+https://algorithmnblues92.github.io/professional_portfolio/
