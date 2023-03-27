@@ -4,10 +4,16 @@
  --bg-text-color: black;
 }
 
+body {
+  display: flex;
+  width: 1900px;
+  height: 1080px;
+}
+
 nav {
  display: flex;
  flex-direction: row;
- width: 99%;
+ width: 95%;
  height: 80px;
  background-color: var(--bg-color);
  font-size: 50px;
@@ -151,19 +157,19 @@ a:hover {
  float: left;
  width: 45%;
  height: 200px;
- margin-top: -200px;
+ margin-top: -300px;
  margin-left: 20px;
  border: 5px solid grey;
 }
 
 .nextWork2 {
  float: left;
- width: 45%;
+ /* width: 45%;
  height: 200px;
  margin-top: -200px;
  margin-left: 20px;
  border: 5px solid grey;
- background-color: #000;
+ background-color: #000; */
 }
 
 .text-block {
@@ -220,6 +226,18 @@ a:hover {
   padding-right: 20px;
   z-index: 2;
 }
+
+.text-block6 {
+  position: absolute;
+  top: 262%;
+  left: 61.5%;
+  background-color: var(--bg-text-color);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  z-index: 2;
+}
+
 
 #displayImage {
  width: 100%;
@@ -367,7 +385,7 @@ a:hover {
  float: left;
  width: 45%;
  height: 50px;
- margin-top: -50px;
+ margin-top: -250px;
  margin-left: 10px;
  border: 5px solid grey;
 }
